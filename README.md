@@ -1,5 +1,5 @@
 # 机器学习 学习笔记
-![机器学习脑图]（https://github.com/Shadower666/ML-notes/blob/master/scikit-learn.jpg）
+![机器学习脑图](https://github.com/Shadower666/ML-notes/blob/master/scikit-learn.jpg)
 ## Avik-Jain machine learning 100day 项目学习笔记
 ### 函数用法记录
 学习如何导入数据、处理丢失的数据以及分解训练集&验证集
